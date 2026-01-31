@@ -1,4 +1,4 @@
-# What-is-Routing-in-Backend-Quick-note
+# What is Routing in Backend: Quick note
 This is a quick note on core backend concepts, so let’s do it properly—from “what even is routing?” to “how real production systems route millions of requests per second.” I’ll explain it in a story format, then break it down technically, and finally delve deeper.
 
 # What is Routing in Backend?
